@@ -4,3 +4,4 @@ This repo conatins a collection of the most basic Ciphers. Use this to undersatn
 
 Currently Implemented:
 1. Caesar Cipher
+2. Affin Cipher
