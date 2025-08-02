@@ -5,3 +5,4 @@ This repo conatins a collection of the most basic Ciphers. Use this to undersatn
 Currently Implemented:
 1. Caesar Cipher
 2. Affine Cipher
+3. Atbash Cipher
